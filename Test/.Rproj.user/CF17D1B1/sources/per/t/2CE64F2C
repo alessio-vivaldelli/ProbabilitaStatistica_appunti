@@ -1,0 +1,26 @@
+{
+    "id": "2CE64F2C",
+    "path": "~/STATISTICA/Test/pval.R",
+    "project_path": "pval.R",
+    "type": "r_source",
+    "hash": "2015604877",
+    "contents": "",
+    "dirty": false,
+    "created": 1718387056893.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "55,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1718388502,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1718388503289,
+    "read_only": false,
+    "read_only_alternatives": []
+}

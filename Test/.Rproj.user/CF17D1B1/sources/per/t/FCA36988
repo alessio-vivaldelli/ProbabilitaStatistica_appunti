@@ -1,0 +1,26 @@
+{
+    "id": "FCA36988",
+    "path": "~/STATISTICA/Test/due_pop.R",
+    "project_path": "due_pop.R",
+    "type": "r_source",
+    "hash": "3188281354",
+    "contents": "",
+    "dirty": false,
+    "created": 1719038200477.0,
+    "source_on_save": false,
+    "relative_order": 7,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "12,34",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1719054903,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1719054903787,
+    "read_only": false,
+    "read_only_alternatives": []
+}

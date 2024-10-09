@@ -1,0 +1,26 @@
+{
+    "id": "CEA16324",
+    "path": "~/STATISTICA/Test/regression.R",
+    "project_path": "regression.R",
+    "type": "r_source",
+    "hash": "3252131046",
+    "contents": "",
+    "dirty": false,
+    "created": 1719934569266.0,
+    "source_on_save": false,
+    "relative_order": 9,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "58,0",
+        "scrollLine": "36"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1720092453,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1720092453045,
+    "read_only": false,
+    "read_only_alternatives": []
+}
